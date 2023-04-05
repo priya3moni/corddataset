@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.ebi.ac.uk/efo/"
+   xmlns:ns2="http://purl.obolibrary.org/obo/"
+   xmlns:ns3="http://www.geneontology.org/formats/oboInOwl#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/HP_0012532">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/efo/EFO_0003843">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003765"/>
+    <ns2:IAO_0000115>An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS.</ns2:IAO_0000115>
+    <ns2:IAO_0000117>Tomasz Adamusiak</ns2:IAO_0000117>
+    <ns1:gwas_trait rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</ns1:gwas_trait>
+    <ns3:hasDbXref>ICD10:R07</ns3:hasDbXref>
+    <ns3:hasDbXref>ICD10:R52</ns3:hasDbXref>
+    <ns3:hasDbXref>ICD9:338-338.99</ns3:hasDbXref>
+    <ns3:hasDbXref>MeSH:D010146</ns3:hasDbXref>
+    <ns3:hasDbXref>MedDRA:10033371</ns3:hasDbXref>
+    <ns3:hasDbXref>NCIt:C3303</ns3:hasDbXref>
+    <ns3:hasDbXref>SNOMEDCT:22253000</ns3:hasDbXref>
+    <ns3:hasExactSynonym>Ache</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Aches</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Burning Pain</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Burning Pains</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Crushing Pain</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Crushing Pains</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Migratory Pain</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Migratory Pains</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Pain, Burning</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Pain, Crushing</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Pain, Migratory</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Pain, Radiating</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Pain, Splitting</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Pains, Burning</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Pains, Crushing</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Pains, Migratory</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Pains, Radiating</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Pains, Splitting</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Physical Suffering</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Physical Sufferings</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Radiating Pain</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Radiating Pains</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Splitting Pain</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Splitting Pains</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Suffering, Physical</ns3:hasExactSynonym>
+    <ns3:hasExactSynonym>Sufferings, Physical</ns3:hasExactSynonym>
+    <rdfs:label>pain</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/HP_0002027">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/efo/EFO_1001370">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/HP_0030838">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/HP_0003418">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/HP_0009763">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/HP_0030834">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/efo/EFO_0009625">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ne4eb4878c2bf4dca93503198728878b9">
+    <owl:someValuesFrom rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/HP_0100749">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/efo/EFO_0801084">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/efo/EFO_1001366">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/efo/EFO_1001412">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/efo/EFO_0005762">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/efo/EFO_0010072">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/HP_0030833">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/HP_0030766">
+    <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/efo/EFO_0003843"/>
+  </rdf:Description>
+</rdf:RDF>
